@@ -1,0 +1,2 @@
+tabs: ["src/pages/index.tsx", "src/server/auth.ts"]
+terminals: ["yarn install && yarn dev"]
